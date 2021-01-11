@@ -1,0 +1,19 @@
+{
+  "blogs": [
+    { 
+      "title": "My new website",
+      "body": "Lorem ipsum ....",
+      "author": "Neenus",
+      "id": 1 },
+  { 
+    "title": "Wife rules",
+    "body": "Lorem ipsum ....",
+    "author": "Rina",
+    "id": 2 },
+  { 
+    "title": "My birthday party",
+    "body": "Lorem ipsum ....",
+    "author": "Kiana",
+    "id": 3 }
+  ]
+}
